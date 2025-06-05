@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Puzzle Game 
-NIYIBIKOZE Frank
-=======
+**NIYIBIKOZE Frank**
 # game-2025
 
 ## Project setup
@@ -26,4 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> Game
+Game
